@@ -1,8 +1,7 @@
 ### Hi there, I'm Jasper 👋
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Learning Developer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning JavaScript, HTML/CSS
 - 🥅 2021 Goals: Learn PHP/SQL and create my first good looking website
 - ⚡ Fun fact: I love to draw and game
