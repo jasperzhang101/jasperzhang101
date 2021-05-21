@@ -10,6 +10,13 @@
 
 ### Languages and Tools:
 
+
+<img align="left" alt="Eclipse" width="26px" src="https://d1.awsstatic.com/sdks-and-tools/eclipse%20icon%201.3778a4cbe978d8dfd73c091706e26aa6c57c65aa.jpeg" />
+
+<img align="left" alt="NetBeans" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" />
+
+<img align="left" alt="IntelliJ" width="26px" src="https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg" />
+
 <img align="left" alt="ATOM" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" />
 
 
