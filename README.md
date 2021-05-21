@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning JavaScript, HTML/CSS
 - 🥅 2021 Goals: Learn PHP/SQL and create my first good looking website
-- ⚡ Fun fact: I love to draw and game
+- ⚡ I love to draw and game
 
 <br />
 
