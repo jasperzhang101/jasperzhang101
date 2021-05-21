@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jasper
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, HTML/CSS
 
 <!---
 jasperzhang101/jasperzhang101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
