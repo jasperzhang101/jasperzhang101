@@ -2,7 +2,7 @@
 
 ## I'm a Learning Developer!!
 
-- 🌱 I’m currently learning JavaScript, HTML/CSS
+- 🌱 I’m currently learning JavaScript
 - 🥅 2021 Goals: Learn PHP/SQL and create my first good looking website
 - ⚡ I love to draw and game
 
