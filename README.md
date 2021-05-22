@@ -6,10 +6,10 @@
 - 🙏 Striving to become a good Full-stack developer 
 - ⚡ I love to draw, game and play terrible chess!
 - 🥅 2021 Goals: 
-   - learn basics in HTML/CSS ✔️
-   - learn basics in JavaScript 
-   - learn basics in PHP 
-   - learn basics in SQL 
+   - learn basics of HTML/CSS ✔️
+   - learn basics of JavaScript 
+   - learn basics of PHP 
+   - learn basics of SQL 
    - create an advanced Java Programm with functional GUI
    - create my first good looking website
    - add repositories in HTML/CSS
