@@ -3,7 +3,7 @@
 ## I'm a Learning Developer!!
 
 - 🌱 I’m currently learning JavaScript
-- 🙏 Striving to become a good Full-stack developer 
+- 🙏 I'm striving to become a good Full-stack developer 
 - ⚡ I love to draw, game and play terrible chess!
 - 🥅 2021 Goals: 
    - learn basics of HTML/CSS ✔️
