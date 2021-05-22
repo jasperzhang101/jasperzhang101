@@ -3,8 +3,14 @@
 ## I'm a Learning Developer!!
 
 - 🌱 I’m currently learning JavaScript
-- 🥅 2021 Goals: Learn PHP/SQL and create my first good looking website
 - ⚡ I love to draw and game
+- 🥅 2021 Goals: 
+    - learn Basics in HTML/CSS ✔️
+    - learn Basics in JavaScript 
+    - learn Basics in PHP 
+    - learn Basics SQL 
+    - create an advanced Java Programm with functional GUI
+    - create my first good looking website
 
 <br />
 
