@@ -3,7 +3,8 @@
 ## I'm a Learning Developer!!
 
 - 🌱 I’m currently learning JavaScript
-- ⚡ I love to draw and game
+- 🙏 Striving to become a good Full-stack developer 
+- ⚡ I love to draw, game and play terrible chess!
 - 🥅 2021 Goals: 
    - learn basics in HTML/CSS ✔️
    - learn basics in JavaScript 
@@ -11,6 +12,8 @@
    - learn basics SQL 
    - create an advanced Java Programm with functional GUI
    - create my first good looking website
+   - add repositories in HTML/CSS
+   - add repositories in JavaScript
 
 <br />
 
