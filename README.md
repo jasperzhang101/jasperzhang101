@@ -9,7 +9,7 @@
    - learn basics in HTML/CSS ✔️
    - learn basics in JavaScript 
    - learn basics in PHP 
-   - learn basics SQL 
+   - learn basics in SQL 
    - create an advanced Java Programm with functional GUI
    - create my first good looking website
    - add repositories in HTML/CSS
