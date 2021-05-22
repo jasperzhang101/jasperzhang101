@@ -5,12 +5,12 @@
 - 🌱 I’m currently learning JavaScript
 - ⚡ I love to draw and game
 - 🥅 2021 Goals: 
-    - learn Basics in HTML/CSS ✔️
-    - learn Basics in JavaScript 
-    - learn Basics in PHP 
-    - learn Basics SQL 
-    - create an advanced Java Programm with functional GUI
-    - create my first good looking website
+   - learn basics in HTML/CSS ✔️
+   - learn basics in JavaScript 
+   - learn basics in PHP 
+   - learn basics SQL 
+   - create an advanced Java Programm with functional GUI
+   - create my first good looking website
 
 <br />
 
