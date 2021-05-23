@@ -2,7 +2,7 @@
 
 ## I'm a Learning Developer!!
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently working on an advanced Java Programm with functional GUI
 - 🙏 I'm striving to become a good Full-stack developer 
 - ⚡ I love to draw, game and play terrible chess!
 - 🥅 2021 Goals: 
