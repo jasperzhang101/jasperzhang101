@@ -28,6 +28,7 @@
 
 <img align="left" alt="ATOM" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" />
 
+<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
