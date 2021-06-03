@@ -12,7 +12,6 @@
    - learn basics of SQL 
    - create an advanced Java Programm with functional GUI
    - create my first good looking website
-   - add repositories in JavaScript✔️
 
 <br />
 
