@@ -7,13 +7,12 @@
 - ⚡ I love to draw, game and play terrible chess!
 - 🥅 2021 Goals: 
    - learn basics of HTML/CSS ✔️
-   - learn basics of JavaScript 
+   - learn basics of JavaScript ✔️
    - learn basics of PHP 
    - learn basics of SQL 
    - create an advanced Java Programm with functional GUI
    - create my first good looking website
-   - add repositories in HTML/CSS
-   - add repositories in JavaScript
+   - add repositories in JavaScript✔️
 
 <br />
 
